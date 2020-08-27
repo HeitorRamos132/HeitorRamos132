@@ -1,4 +1,4 @@
-### Heitor Ramos
+## Heitor Ramos
 #### Front End Developer
 ##### He/Him
 
