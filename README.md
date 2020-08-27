@@ -6,6 +6,7 @@ Hi, I'm Heitor, a currently freelancing front end developer who's always looking
 
 ### Currently learning
 * React Native
+* Next.js
 
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/heitor-gon%C3%A7alves-de-paula-ramos-316abb194/)
