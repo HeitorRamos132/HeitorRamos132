@@ -4,6 +4,11 @@
 
 Hi, I'm Heitor, a currently freelancing front end developer who's always looking for new challenges and projects to keep on learning.
 
+### Notable projects
+
+* [Notepad with React](https://bloco-de-notas.vercel.app/)
+* [DASH App](https://teamdashsp.com.br/)
+
 ### Currently learning
 * React Native
 * Next.js
