@@ -8,7 +8,6 @@ Hi, I'm Heitor, a currently freelancing front end developer who's always looking
 
 * [Dog App with React](https://github.com/HeitorRamos132/dog_app)
 * [Notepad with React](https://bloco-de-notas.vercel.app/)
-* [DASH App](https://teamdashsp.com.br/)
 
 ### Currently learning
 * React Native
