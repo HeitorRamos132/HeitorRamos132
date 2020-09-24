@@ -18,6 +18,7 @@ Hi, I'm Heitor, a currently freelancing front end developer who's always looking
 * [LinkedIn](https://www.linkedin.com/in/heitor-gon%C3%A7alves-de-paula-ramos-316abb194/)
 * [Email](heitorgpramos95@gmail.com)
 
+![Profile views](https://gpvc.arturio.dev//HeitorRamos132)
 <!--
 **HeitorRamos132/HeitorRamos132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
