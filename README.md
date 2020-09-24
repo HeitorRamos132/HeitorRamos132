@@ -4,6 +4,14 @@
 
 Hi, I'm Heitor, a currently freelancing front end developer who's always looking for new challenges and projects to keep on learning.
 
+### Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-Typescript-%231572B6?style=flat-square&logo=typescript)
+![Redux](https://img.shields.io/badge/-Redux-%234B32C3?style=flat-square&logo=redux)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
 ### Notable projects
 
 * [Dog App with React](https://github.com/HeitorRamos132/dog_app)
