@@ -2,7 +2,7 @@
 #### Front End Developer
 ##### He/Him
 
-Hi, I'm Heitor, a currently freelancing front end developer who's always looking for new challenges and projects to keep on learning.
+Hi, I'm Heitor, a front end developer who's always looking for new challenges and projects to keep on learning.
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
