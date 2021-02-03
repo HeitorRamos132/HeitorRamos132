@@ -1,6 +1,6 @@
 ## Heitor Ramos
 #### Front End Developer
-##### He/Him
+##### Any pronouns
 
 Hi, I'm Heitor, a front end developer who's always looking for new challenges and projects to keep on learning.
 
