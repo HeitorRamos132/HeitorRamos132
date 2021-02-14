@@ -19,6 +19,7 @@ Hi, I'm Heitor, a front end developer who's always looking for new challenges an
 * [Favorite Pokémon list with React and Redux](https://github.com/HeitorRamos132/favorite_pokemon)
 
 ### Currently learning
+* Svelte 
 * React Native
 * Next.js
 
@@ -29,7 +30,7 @@ Hi, I'm Heitor, a front end developer who's always looking for new challenges an
 ![Profile views](https://gpvc.arturio.dev/HeitorRamos132)
 <!--
 **HeitorRamos132/HeitorRamos132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://img.shields.io/badge/-Svelte-%23FF3C00?&logo=svelte&logoColor=ffffff
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
