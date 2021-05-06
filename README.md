@@ -15,7 +15,6 @@ Hi, I'm Heitor, a front end developer who's always looking for new challenges an
 
 * [Book query platform with React and Atomic Design](https://github.com/HeitorRamos132/book-platform)
 * [Dog App with React](https://github.com/HeitorRamos132/dog_app)
-* [Notepad with React](https://bloco-de-notas.vercel.app/)
 * [Favorite Pokémon list with React and Redux](https://github.com/HeitorRamos132/favorite_pokemon)
 
 ### Currently learning
